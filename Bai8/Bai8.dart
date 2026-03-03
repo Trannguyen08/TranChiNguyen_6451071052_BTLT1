@@ -2,6 +2,7 @@ import 'dart:io';
 import 'dart:math';
 
 void main() {
+  print("6451071052 - Trần Chí Nguyên\n");
   int guessNum = Random().nextInt(100) + 1;
   print("Nhập vào số cần đoán: ");
   int n = int.parse(stdin.readLineSync()!);

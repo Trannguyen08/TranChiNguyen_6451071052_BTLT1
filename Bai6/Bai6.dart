@@ -1,6 +1,7 @@
 import 'dart:io';
 
 void main() {
+  print("6451071052 - Trần Chí Nguyên\n");
   print("Nhập vào chuỗi: ");
   String name = stdin.readLineSync()!;
   int i = 0, j = name.length - 1;

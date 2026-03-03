@@ -11,6 +11,7 @@ bool isPrime(int n) {
 }
 
 void main() {
+  print("6451071052 - Trần Chí Nguyên\n");
   print("Nhập một số: ");
   int number = int.parse(stdin.readLineSync()!);
   if (isPrime(number)) {

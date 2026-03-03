@@ -1,6 +1,7 @@
 import 'dart:io';
 
 void main() {
+  print("6451071052 - Trần Chí Nguyên\n");
   print("Nhập vào tên: ");
   String name = stdin.readLineSync()!;
   print("Nhập vào tuổi: ");
